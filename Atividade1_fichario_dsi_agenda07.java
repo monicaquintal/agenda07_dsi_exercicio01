@@ -9,7 +9,7 @@ public class Atividade1_fichario_dsi_agenda07 {
         double valorOriginal, valorPromocional;
         String produto, auxiliar;
         
-        // mansagem inicial
+        // mensagem inicial
         JOptionPane.showMessageDialog(null, "Bem vindo (a) ao Aniversário da Padaria do Joaquim!");
         
         //laço de repetição for
